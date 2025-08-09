@@ -44,3 +44,12 @@ Deploy - Vercel
 - Build command: npm run build
 - Output directory: dist
 - vercel.json is included so defaults work.
+
+
+What changed in this patch
+- Stable FAA/EASA/NIOSH entry links (no 404s).
+- Preset quick-picks for engines and ATA 70-80.
+- Recent searches (last 5) saved in localStorage.
+- Star favorites (saved in localStorage).
+- Copy query text button to paste into FAA/EASA search boxes.
+- Open both FAA and EASA with one click.
