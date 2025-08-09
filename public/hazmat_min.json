@@ -1,0 +1,62 @@
+[
+  {
+    "un": 1866,
+    "name": "Resin solution",
+    "class": "3",
+    "pg": "II"
+  },
+  {
+    "un": 1993,
+    "name": "Flammable liquids, n.o.s.",
+    "class": "3",
+    "pg": "II"
+  },
+  {
+    "un": 1219,
+    "name": "Isopropanol",
+    "class": "3",
+    "pg": "II"
+  },
+  {
+    "un": 1090,
+    "name": "Acetone",
+    "class": "3",
+    "pg": "II"
+  },
+  {
+    "un": 1263,
+    "name": "Paint related material",
+    "class": "3",
+    "pg": "II"
+  },
+  {
+    "un": 3265,
+    "name": "Corrosive liquid, acidic, organic, n.o.s.",
+    "class": "8",
+    "pg": "II"
+  },
+  {
+    "un": 1760,
+    "name": "Corrosive liquids, n.o.s.",
+    "class": "8",
+    "pg": "II"
+  },
+  {
+    "un": 1950,
+    "name": "Aerosols",
+    "class": "2",
+    "pg": "NA"
+  },
+  {
+    "un": 1170,
+    "name": "Ethanol",
+    "class": "3",
+    "pg": "II"
+  },
+  {
+    "un": 3077,
+    "name": "Environmentally hazardous substance, solid, n.o.s.",
+    "class": "9",
+    "pg": "III"
+  }
+]

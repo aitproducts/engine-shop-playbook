@@ -1,0 +1,42 @@
+[
+  {
+    "oem": "CFM",
+    "model": "CFM56-7B"
+  },
+  {
+    "oem": "CFM",
+    "model": "LEAP-1A"
+  },
+  {
+    "oem": "CFM",
+    "model": "LEAP-1B"
+  },
+  {
+    "oem": "IAE",
+    "model": "V2500-A5"
+  },
+  {
+    "oem": "Pratt & Whitney",
+    "model": "PW1100G-JM"
+  },
+  {
+    "oem": "Pratt & Whitney",
+    "model": "PW1500G"
+  },
+  {
+    "oem": "Rolls-Royce",
+    "model": "Trent 700"
+  },
+  {
+    "oem": "Rolls-Royce",
+    "model": "Trent 1000"
+  },
+  {
+    "oem": "GE",
+    "model": "GE90"
+  },
+  {
+    "oem": "GE",
+    "model": "CF6-80C2"
+  }
+]
